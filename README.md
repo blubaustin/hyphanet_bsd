@@ -22,6 +22,4 @@ you copy the script to CURRENT_DIRECTORY/hyphanet and after making it executeabl
 
     ./hnbsd.sh hyphanet
 
-  README for FLIP Binary
 
-  It is provided as is in case you cannot compile things.
