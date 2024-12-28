@@ -23,3 +23,7 @@ you copy the script to CURRENT_DIRECTORY/hyphanet and after making it executeabl
     ./hnbsd.sh hyphanet
 
 
+README for FLIP Binary
+
+tar xvf flip.tar.bz2
+./flip
